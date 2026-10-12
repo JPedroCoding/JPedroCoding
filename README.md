@@ -36,6 +36,16 @@ Backend developer in progress from Brazil. I build process automations for traff
 | [**DominosCode**](https://github.com/JPedroCoding/DominosCode) · [backend](https://github.com/JPedroCoding/DominosCode_BackEnd) | Projeto full stack com front e back separados |
 | [**Vota-o_Time**](https://github.com/JPedroCoding/Vota-o_Time) | Página de votação feita em HTML |
 
+### 📦 Publicando projetos antigos / Old projects
+
+Estou subindo aos poucos projetos que ficaram guardados no meu computador, para registrar minha evolução.
+*I'm gradually publishing older projects that were sitting on my machine, to document my progress.*
+
+| Projeto | O que é |
+|---|---|
+| [**robo-consulta-multas**](https://github.com/JPedroCoding/robo-consulta-multas) | Robô em Python (Selenium) que consulta multas em portais de 6 prefeituras e envia tudo para o Google Sheets |
+| [**preenchimento-formularios-pdf**](https://github.com/JPedroCoding/preenchimento-formularios-pdf) | React + Express que transforma uma planilha de condutores em formulários de indicação em PDF já preenchidos |
+
 ---
 
 ### 📊 Estatísticas / Stats
