@@ -4,10 +4,6 @@
   Dev backend em evolução · Node.js · Automação de processos
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JPedroCoding&color=0e75b6&style=flat-square&label=visitas" alt="visitas ao perfil" />
-</p>
-
 ---
 
 ### 🇧🇷 Sobre mim
